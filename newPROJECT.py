@@ -101,5 +101,12 @@ def membaca():
                     os.system('sh R133FDAFACE.sh')
     else:
          print ('invalid!!!')
+
+    if nomor == '0':
+                    os.system('bash')
+
+    else:
+         print ('invalid!!!')
+
 pilihan()
 membaca()
